@@ -1,7 +1,7 @@
 /**
  * 
  */
-package java_basics;
+package javaBasics;
 
 /**
  * @author Greg Wagner- Snoozle Learning
