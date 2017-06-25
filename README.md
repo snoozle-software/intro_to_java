@@ -16,6 +16,10 @@ Then run in the console at the top level
     
 then go in to the target/bin/ directory and run the shell script or BAT files to run the program. 
 
+For example, if you want to run BasicDriver in unix
+
+    sh target/bin/BasicDriver
+
 ## Available Classes
 
 1. [Programming Basics](https://youtu.be/kLaV7rpH3rY)

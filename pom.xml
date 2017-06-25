@@ -49,6 +49,10 @@
                         <mainClass>javaBasics.BasicDriver</mainClass>
                         <name>BasicDriver</name>
                     </program>
+                    <program>
+                        <mainClass>javaBasics.Repetitions</mainClass>
+                        <name>Repetitions</name>
+                    </program>
                 </programs>
             </configuration>
             <executions>
