@@ -46,11 +46,15 @@
                 <assembleDirectory>target</assembleDirectory>
                 <programs>
                     <program>
-                        <mainClass>javaBasics.BasicDriver</mainClass>
+                        <mainClass>javaBasicsLesson1.BasicDriver</mainClass>
                         <name>BasicDriver</name>
                     </program>
                     <program>
-                        <mainClass>javaBasics.Repetitions</mainClass>
+                        <mainClass>flowControlLesson2.FlowControl</mainClass>
+                        <name>FlowControl</name>
+                    </program>
+                    <program>
+                        <mainClass>repetitionsLesson3.Repetitions</mainClass>
                         <name>Repetitions</name>
                     </program>
                 </programs>

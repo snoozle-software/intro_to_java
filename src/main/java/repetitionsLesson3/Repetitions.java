@@ -1,4 +1,4 @@
-package javaBasics;
+package repetitionsLesson3;
 
 public class Repetitions {
 
