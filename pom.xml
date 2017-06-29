@@ -57,6 +57,10 @@
                         <mainClass>repetitionsLesson3.Repetitions</mainClass>
                         <name>Repetitions</name>
                     </program>
+                    <program>
+                        <mainClass>methodssLesson4.Methods</mainClass>
+                        <name>Methods</name>
+                    </program>
                 </programs>
             </configuration>
             <executions>
