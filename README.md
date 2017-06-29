@@ -22,6 +22,9 @@ For example, if you want to run BasicDriver in unix
 
 ## Available Classes
 
-1. [Programming Basics](https://youtu.be/kLaV7rpH3rY)
+1. [Programming Basics](http://learning.snoozle.net/courses/introduction-to-java/programming-basics)
+2. [Flow Control](http://learning.snoozle.net/courses/introduction-to-java/flow-control)
+3. [Loops](http://learning.snoozle.net/courses/introduction-to-java/loops)
+4. [Methods](http://learning.snoozle.net/courses/introduction-to-java/methods)
 
 
