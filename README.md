@@ -26,5 +26,6 @@ For example, if you want to run BasicDriver in unix
 2. [Flow Control](http://learning.snoozle.net/courses/introduction-to-java/flow-control)
 3. [Loops](http://learning.snoozle.net/courses/introduction-to-java/loops)
 4. [Methods](http://learning.snoozle.net/courses/introduction-to-java/methods)
+5. [Arrays](http://learning.snoozle.net/courses/introduction-to-java/arrays)
 
 
