@@ -61,6 +61,14 @@
                         <mainClass>methodsLesson4.Methods</mainClass>
                         <name>Methods</name>
                     </program>
+                    <program>
+                        <mainClass>arraysLesson5.Arrays</mainClass>
+                        <name>Arrays</name>
+                    </program>
+                    <program>
+                        <mainClass>inputValidationLesson6.InputValidation</mainClass>
+                        <name>InputValidation</name>
+                    </program>
                 </programs>
             </configuration>
             <executions>
