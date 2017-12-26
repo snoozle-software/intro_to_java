@@ -69,6 +69,10 @@
                         <mainClass>inputValidationLesson6.InputValidation</mainClass>
                         <name>InputValidation</name>
                     </program>
+                    <program>
+                        <mainClass>classesLesson7.ClassesLesson7</mainClass>
+                        <name>Classes</name>
+                    </program>
                 </programs>
             </configuration>
             <executions>
